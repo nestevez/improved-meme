@@ -1,0 +1,8 @@
+C:\Users\Natalia\Documents\Coding\DojoAssignments\netCore\learnPortal\forming\bin\MCD\Debug\netcoreapp1.1\forming.deps.json
+C:\Users\Natalia\Documents\Coding\DojoAssignments\netCore\learnPortal\forming\bin\MCD\Debug\netcoreapp1.1\forming.runtimeconfig.json
+C:\Users\Natalia\Documents\Coding\DojoAssignments\netCore\learnPortal\forming\bin\MCD\Debug\netcoreapp1.1\forming.runtimeconfig.dev.json
+C:\Users\Natalia\Documents\Coding\DojoAssignments\netCore\learnPortal\forming\bin\MCD\Debug\netcoreapp1.1\forming.dll
+C:\Users\Natalia\Documents\Coding\DojoAssignments\netCore\learnPortal\forming\bin\MCD\Debug\netcoreapp1.1\forming.pdb
+C:\Users\Natalia\Documents\Coding\DojoAssignments\netCore\learnPortal\forming\obj\MCD\Debug\netcoreapp1.1\forming.AssemblyInfo.cs
+C:\Users\Natalia\Documents\Coding\DojoAssignments\netCore\learnPortal\forming\obj\MCD\Debug\netcoreapp1.1\forming.dll
+C:\Users\Natalia\Documents\Coding\DojoAssignments\netCore\learnPortal\forming\obj\MCD\Debug\netcoreapp1.1\forming.pdb
